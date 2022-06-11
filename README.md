@@ -10,7 +10,7 @@
 ![](/screenshots/03.png)
 
 # Replace the icon
-1. Download [fixed icon](stadia mac os icon fixed.png) from above.
+1. Download stadia mac os icon fixed.png from above.
 2. Open downloaded icon in Preview, Select All (Ctrl + A) and copy image to the clipboard (Ctrl + C).
 3. Open Finder -> Go -> Home -> Applications -> Chrome Apps.
 4. Right-click Stadia app and select "Get info".
