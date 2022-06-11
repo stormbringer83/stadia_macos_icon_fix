@@ -17,5 +17,4 @@
 5. Click on Stadia icon and select Edit - Paste (⌘ + V) in main menu.
 
 # Enjoy the new accurate look
-![](/screenshots/04.png)
-![](/screenshots/05.png)
+
