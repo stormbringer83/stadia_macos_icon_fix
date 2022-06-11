@@ -3,8 +3,9 @@
 2. Navigate to https://stadia.google.com via Chrome.
 3. Install Stadia as PWA.
 
-# Have a look at the ugly icon
-
+# Have a look at the ugly Stadia icon
+![](/screenshots/02.png)
+![](/screenshots/03.png)
 
 # Replace the icon
 1. Download fixed icon from above.
@@ -13,4 +14,6 @@
 4. Right-click Stadia app and select "Get info".
 5. Click on Stadia icon and select Edit - Paste in the main menu.
 
-# Enjoy the new look
+# Enjoy the new accurate look
+![](/screenshots/04.png)
+![](/screenshots/05.png)
